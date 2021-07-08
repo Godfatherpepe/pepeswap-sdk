@@ -1,14 +1,17 @@
 {
-  "name": "@bscswap/sdk",
+  "name": "@pepeswap/sdk",
   "license": "MIT",
-  "version": "3.0.15",
-  "description": "🛠 An SDK for building applications on top of BSCswap.",
+  "version": "0.0.1",
+  "description": "🛠 An SDK for building applications on top of Pepeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/bscswap/bscswap-sdk.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godfatherpepe/pepeswap-sdk.git"
+  },
   "keywords": [
     "bscswap",
     "binance"
@@ -55,5 +58,13 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/bscswap/bscswap-sdk/issues"
+  },
+  "homepage": "https://github.com/bscswap/bscswap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": "godfatherpepe"
 }
