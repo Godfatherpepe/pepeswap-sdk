@@ -1,5 +1,5 @@
 {
-  "name": "@pepeswap-library/sdk",
+  "name": "@godfatherpepe/sdk",
   "license": "MIT",
   "version": "0.0.1",
   "description": "🛠 An SDK for building applications on top of Pepeswap.",
@@ -25,7 +25,6 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@bscsswap/contracts": "1.0.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
